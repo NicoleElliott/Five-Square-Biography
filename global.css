@@ -1,0 +1,42 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+p {
+line-height:1.25em;
+margin-bottom: 1em;
+}
+p{font-family:"Palatino," Georgia, serif}
+p {font-size: 18px;}
+
+* {
+margin:0;
+padding:0;
+}
+
+
+
+ul
+{
+list-style: none;
+} 
+body{
+background-color: #2c6fbb;
+}
+
+div
+{
+background:url("img/bg.png");
+background-size: 1000px 1000px;
+background-repeat:repeat;
+}
+
+h1 {
+color: #f4aa00;
+}
+h2 {
+color: #f4aa00;
+}
+p {
+color: #00000;
+}

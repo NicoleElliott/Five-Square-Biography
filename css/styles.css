@@ -1,0 +1,95 @@
+/* Your Website Styles */
+
+p  {
+font-family:"Baskerville," Georgia, serif;
+font-size: 18px;
+}
+
+
+p {
+line-height:1.50em;
+margin-bottom: 1em;
+}
+ .global-nav {
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 10;
+    width: 100%;
+    background: teal;
+    line-height: 5px;
+    white-space: nowrap;
+    min-width: 30px;
+}
+html {
+    background: url("../img/bg.png");
+}
+.welcome {
+    position: absolute;
+}
+.container {
+    background: teal;
+    position: relative;
+/*    min-height: 210px;*/
+    border-radius: 10px;
+
+/*    left: 50%;
+    margin-left: -444px;*/
+    margin-top: 100px;
+    box-shadow: 0px 0px 50px 10px rgba(68, 68, 68, .8);
+}
+.content {
+    margin-top: 50px;
+
+}
+.center-content {
+    padding: 10px 0 10px 74px;
+}
+
+h1 {
+    text-align: center;
+    color : white;
+    font-size: 30px;
+}
+h2{
+	font-size: 24px;
+}
+h3{
+	font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+span {
+    padding-right: 50px;
+}
+.frank-face {
+    position: absolute;
+    top:5px;
+    right: 5px;
+    border-radius: 50%;
+}
+.email, .phone-num {
+    font-size: 75%;
+    text-decoration: none;
+}
+.email:hover,
+.school-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+
+.thanks {
+    text-indent: 0;
+    text-align: center;
+    padding-left: 35px;
+    margin-bottom: -1px;
+}
+ .bottom-margin {
+    margin: 50px;
+}
+
+*/
