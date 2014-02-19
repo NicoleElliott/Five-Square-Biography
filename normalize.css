@@ -64,7 +64,8 @@ template {
  */
 
 html {
-    font-family: sans-serif; /* 1 */
+    font-family: font-family: "Times New Roman," Georgia, serif;
+ /* 1 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 }
@@ -116,6 +117,7 @@ a:hover {
  */
 
 h1 {
+  color: #f4aa00;
     font-size: 2em;
     margin: 0.67em 0;
 }
