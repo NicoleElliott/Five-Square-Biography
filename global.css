@@ -2,6 +2,13 @@
 
 
 /* Show Grid */
+*{
+    margin-right: 5px;
+    margin-left:  5px;
+    margin-top:  10px;
+    margin-bottom: 10px;
+    
+}
 
 span{
 	text-align: center;
@@ -11,9 +18,9 @@ span{
     position: fixed;
     text-align: center;
     top:0;
-    left:0;
+    left: 400px;
     z-index: 10;
-    width: 100%;
+    width: 50%;
     background: aqua;
     line-height: 5px;
     white-space: nowrap;
@@ -35,8 +42,8 @@ span{
 body {
 	font-family: "Times New Roman," Georgia, serif;
 	background-color: teal;
-	line-height:1.25em;
-	margin-bottom: 1em;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
 }
 
 p{
@@ -44,7 +51,10 @@ p{
 	font-size: 18px;
 }
 
-
+img {
+    float: left;
+    padding-left: 10px;
+}
 ul
 {
 list-style: none;
