@@ -10,6 +10,37 @@
     
 }
 
+html {
+       background: #802A00; /* Brown */
+font-family: 'Noto Serif', serif;
+line-height: 1.5em;
+margin-bottom: 1em;
+text-decoration: none;
+}
+
+
+
+h1 {
+color: #000000;
+font-family: 'Noto Serif', serif;
+    font-size: 30px;
+}
+
+h2{
+font-family: 'Noto Serif', serif;
+font-size: 28px;
+}
+
+h3{
+font-family: 'Noto Serif', serif;
+font-size: 26px;
+}
+
+p{
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
 span{
 	text-align: center;
 }
@@ -21,14 +52,14 @@ span{
     left: 400px;
     z-index: 10;
     width: 50%;
-    background: aqua;
+    background: #802A00; /* Brown */
     line-height: 5px;
     white-space: nowrap;
     min-width: 30px;
 }
 
 .container {
-    background: aqua;
+    background: #BFFFFE; /* Brown */
     position: relative;
 /*    min-height: 210px;*/
     border-radius: 10px;
@@ -36,20 +67,11 @@ span{
 /*    left: 50%;
     margin-left: -444px;*/
     margin-top: 100px;
-    box-shadow: 0px 0px 50px 10px rgba(68, 68, 68, .8);
+
 }
 
-body {
-	font-family: "Times New Roman," Georgia, serif;
-	background-color: teal;
-	line-height: 1.5em;
-	margin-bottom: 1.5em;
-}
 
-p{
-	font-family: "Times New Roman," Georgia, serif;
-	font-size: 18px;
-}
+
 
 img {
     float: left;
@@ -60,20 +82,5 @@ ul
 list-style: none;
 } 
 
-div
-{
 
 
-}
-
-h1 {
-color: #014421;
-}
-
-h2 {
-color: #014421;
-}
-
-p {
-color: #00000;
-}
