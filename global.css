@@ -1,7 +1,4 @@
 /* Your Website Styles */
-
-
-/* Show Grid */
 *{
     margin-right: 5px;
     margin-left:  5px;
@@ -42,7 +39,16 @@ p{
 }
 
 span{
+    padding-right: 50px;
+    font-size: 30px;
 	text-align: center;
+}
+
+span ul{
+    line-height: 1em;
+    font-size: 32px;
+    text-align: center;
+    padding-right: 150px;
 }
 
 .global-nav {
@@ -70,17 +76,69 @@ span{
 
 }
 
+.center-content {
+    background: url("../img/parchment.jpg");
+    background-size: 1000px 1539px;
+   
 
+}
 
 
 img {
     float: left;
     padding-left: 10px;
 }
-ul
-{
-list-style: none;
-} 
 
+ul{
+list-style: none;
+text-align: center;
+font-weight: normal;
+text-decoration: none;
+text-align: left;
+font-size: 16px;
+}  
+   
+li{
+    font-family: Verdana, sans-serif;
+font-weight: normal;
+line-height: 1em;
+padding-right: 50px;
+font-size: 16px;
+text-decoration: none;
+list-style-type: none;
+text-align: left;
+}
+
+
+
+
+  
+.content {
+  
+    margin-top: 50px;
+
+}
+
+
+
+
+
+
+
+}
+.email, .phone-num {
+    font-size: 100%;
+    text-decoration: none;
+}
+.email:hover,
+.school-link:hover {
+    color: teal;
+    text-decoration: underline;
+}
+
+
+.bottom-margin {
+    margin: 50px;
+}
 
 
